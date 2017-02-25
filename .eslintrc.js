@@ -1,11 +1,11 @@
 module.exports = {
     "env" : {
-        "node" : true,
         "browser" : true,
-        "es6" : false,
+        "es6" : true,
+        "node" : true,
     },
 
-    "extends": [ "eslint:recommended" , "google" ],
+    "extends": [ "eslint:recommended", "google" ],
 
     "plugins": [
         "node",
