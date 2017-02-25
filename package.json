@@ -1,0 +1,23 @@
+{
+  "name": "backbone.shadow",
+  "version": "0.0.1",
+  "description": "Shadow Backbone.Moded.",
+  "main": "backbone.shadow.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wao/backbone.shadow.git"
+  },
+  "keywords": [
+    "backbone",
+    "model"
+  ],
+  "author": "yangchen@thinkmore.info",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/wao/backbone.shadow/issues"
+  },
+  "homepage": "https://github.com/wao/backbone.shadow#readme"
+}
